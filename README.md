@@ -1,4 +1,4 @@
-# Lab: Converting Database Records to Ruby Objects
+# Converting Database Records to Ruby Objects Lab
 
 ## Learning Goals
 
