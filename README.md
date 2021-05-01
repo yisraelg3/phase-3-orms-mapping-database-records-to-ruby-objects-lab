@@ -1,6 +1,6 @@
-# ORM Mapping Database Rows to Ruby Objects
+# Lab: Converting Database Records to Ruby Objects
 
-## Objectives
+## Learning Goals
 
 - Write a method that turns database rows into Ruby objects
 - Write methods that allow you to search a database
